@@ -20,5 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include("forecast.api.urls")),
     path('', include("forecast.urls")),
-    #aloaloalo
+    #may lam gi day
 ]
